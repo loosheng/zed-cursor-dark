@@ -4,16 +4,12 @@ Welcome to the **Cursor Dark** theme! This theme has been transplanted from the 
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <p align="center">
-    <img src="./img/cursor-dark.png" alt="cursor dark">
-    <span>Cursor Dark</span>
-  </p>
-  <p align="center">
-    <img src="./img/cursor-dark-midnight.png" alt="cursor dark midnight">
-    <span>Cursor Dark Midnight</span>
-  </p>
+<div align="center">
+  <img width="49%" src="./img/cursor-dark.png"  alt="Cursor Dark"/>
+  <img width="49%" src="./img/cursor-dark-midnight.png" alt="Cursor Dark Midnight" />
 </div>
+<div align="center">Cursor Dark & Cursor Dark Midnight</div>
+
 
 ## Installation
 
