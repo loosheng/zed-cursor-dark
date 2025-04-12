@@ -13,7 +13,7 @@ Welcome to the **Cursor Dark** theme! This theme has been transplanted from the 
 
 ## Installation
 
-1. Zed Menu -> Extensions -> Search "Cursor Dark"
+1. Zed Menu -> Extensions -> Search `cursor-dark-theme`
 2. Click `Install`
 3. Select the **Cursor Dark** theme in the Zed editor.
 
